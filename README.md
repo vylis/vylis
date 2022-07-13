@@ -18,7 +18,7 @@
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="60" height="60"/> 
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
-  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reactnative-original.svg" alt="reactnative" width="60" height="60"/> 
+  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="60" height="60"/> 
   
  <br/><br/><br/>
  
