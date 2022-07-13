@@ -1,13 +1,14 @@
 ### Hi there, I'm Romain aka Vylis
-## A 22 year old full stack web developer
-- 🌱 I am currently available and based in France
-- 👯 I also love making music (I sing and play guitar and bass)
+## A 23 year old full stack developer
+- 🌱 I am based in France
+- 👯 I also love making music 
 
 ## Languages and Tools: 
 
 ### Languages
 
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+ <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> 
 
  <br/><br/><br/>
  
@@ -15,9 +16,10 @@
 
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="60" height="60"/> 
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="60" height="60"/> 
- <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/> 
+ <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>
  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
-
+  <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reactnative-original.svg" alt="reactnative" width="60" height="60"/> 
+  
  <br/><br/><br/>
  
 ### Back-End
