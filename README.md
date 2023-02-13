@@ -1,4 +1,4 @@
-### Hi there, I'm Romain aka Vylis
+### Hi there, I'm Vylis
 ## A 23 year old full stack developer
 - 🌱 I am based in France
 - 👯 I also love making music 
