@@ -1,6 +1,7 @@
-## Hi, I'm Vylis!
-- 🌱 I am based in France.
-- 👯 I also love making music.
+## Hi, I'm Vylis! 
+- I am a french software developer
+- I am based in France
+- I also love making music
 
 ## Languages and Tools: 
 
