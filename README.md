@@ -45,4 +45,4 @@
 ---
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vylis&show_icons=true&locale=en&layout=compact" alt="vylis" /></p
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vylis&show_icons=true&locale=en&layout=compact" alt="toplang" /></p
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vylis&show_icons=true" alt="toplang" /></p
