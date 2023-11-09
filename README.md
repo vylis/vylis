@@ -1,6 +1,6 @@
 ## Hi, I'm Vylis! 
 - I am a french software developer
-- I am based in France
+- I'm actually learning rust on my free time
 - I also love making music
 
 ## Languages and Tools: 
