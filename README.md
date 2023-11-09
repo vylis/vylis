@@ -44,5 +44,5 @@
 
 ---
 
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vylis&show_icons=true&hide_progress=true&theme=dark#gh-dark-mode-only" alt="toplang" height="200" width="200"/></p
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vylis&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats" height="200" width="200"/></p
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vylis&show_icons=true&hide_progress=true&theme=dark#gh-dark-mode-only" alt="toplang" height="300" width="300"/></p
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vylis&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats" height="300" width="300"/></p
